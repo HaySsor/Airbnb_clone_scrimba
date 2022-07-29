@@ -1,0 +1,8 @@
+.box {
+	display: flex;
+	overflow-x: scroll;
+	margin-left: 25px;
+}
+.box::-webkit-scrollbar {
+	display: none;
+}
